@@ -20,7 +20,7 @@
 ### Category Name 2
 
 - [Project 1 Title](https://github.com/Negin-Kordinejad/LifeInsurance)
-- [Project 2 Title](http://example.com/)
+- [Project 2 Title](https://github.com/Negin-Kordinejad/RetailManager)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
