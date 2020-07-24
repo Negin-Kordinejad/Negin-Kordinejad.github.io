@@ -1,11 +1,18 @@
-title: Negin Kordi nejad # your name (or website title) here
+title: Negin Kordinejad # your name (or website title) here
 logo: "/images/circle.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+ Senior Software Developer 
+ Analyst System at Civil Servants Pension Organisation
   <br><br>
-  Second description 
+  Bachelor’s Degree: Software Engineering
+  Languages / GUI	.NET, C#, ASP.NET, T-SQL, JavaScript, .Net Framework, HTM, Python (Django)
+Database	MS SQL Server
+Management Tools	MS Visual Source Safe 6.0, Tortoise SVN, GIT
+Software / Tools 	Visual Studio, SQL Server Management studio, PyCharm, Eclipse
+Third-Party Components	Crystal Report, DevExpress, Postman, Swagger
+
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/negin-kordinejad-995a5541/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
